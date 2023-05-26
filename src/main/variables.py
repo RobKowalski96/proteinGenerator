@@ -1,0 +1,16 @@
+AMINOACIDS_FREQUENCY = "aminoAcidsFrequency"
+CONNECTIONS = "connections"
+NEGATIVE_AMINOACIDS = "negativeAminoAcids"
+NEUTRAL_AMINOACIDS = "neutralAminoAcids"
+POSITIVE_AMINOACIDS = "positiveAminoAcids"
+
+AMINOACIDS_FREQUENCY_FILE = "aminoAcidsFrequencyFile"
+CONNECTIONS_FILE = "connectionsFile"
+NEGATIVE_AMINOACIDS_FILE = "negativeAminoAcidsFile"
+NEUTRAL_AMINOACIDS_FILE = "neutralAminoAcidsFile"
+POSITIVE_AMINOACIDS_FILE = "positiveAminoAcidsFile"
+
+PROTEIN_LENGTH = "proteinLength"
+LEARNING_SAMPLE_SIZE = "learningSampleSize"
+POSITIVE_SAMPLE_SIZE = "positiveSampleSize"
+NEGATIVE_SAMPLE_SIZE = "negativeSampleSize"

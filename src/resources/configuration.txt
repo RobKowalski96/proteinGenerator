@@ -1,0 +1,9 @@
+proteinLength=21
+learningSampleSize=10
+positiveSampleSize=5
+negativeSampleSize=3
+aminoAcidsFrequencyFile=./src/resources/naturalAminoAcids.txt
+connectionsFile=./src/resources/connections.txt
+negativeAminoAcidsFile=./src/resources/electricalConnections/negative.txt
+neutralAminoAcidsFile=./src/resources/electricalConnections/neutral.txt
+positiveAminoAcidsFile=./src/resources/electricalConnections/positive.txt
